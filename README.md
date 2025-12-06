@@ -44,7 +44,6 @@ BibliothequeNumerique/
 └── BibliothequeNumerique.csproj    # Fichier de configuration du projet
 
 
-
 ⚙️ Fonctionnalités principales
 Gestion des documents
 
