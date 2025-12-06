@@ -1,0 +1,10 @@
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.config
+*.json
+*.nuget/
+*.user
